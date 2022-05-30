@@ -1,4 +1,4 @@
-module gitlab.com/mkorman-playground/go-gin-protocol
+module github.com/mkorman9/go-gin-protocol
 
 go 1.16
 
